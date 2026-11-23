@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+backups/
+state/
+*.bak.*
+snapshot.json
+models_live.json
+models_list_latest.txt
+.env
